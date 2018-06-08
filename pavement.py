@@ -183,4 +183,3 @@ def testloc(options):
 @task
 def loc(options):
     sh('sloccount djcelery')
-# trying to use git
